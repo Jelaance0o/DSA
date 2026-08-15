@@ -38,7 +38,7 @@ Improve
 
 * **01** - DSA Introduction ✅
 * **02** - JS Essentials ✅
-* **03** - Operator
+* **03** - Operator ✅
 * **04** - Function
 * **05** - Conditional Statement
 * **06** - Switch Case
